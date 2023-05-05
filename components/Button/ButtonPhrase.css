@@ -1,0 +1,10 @@
+.buttonClass {
+  width: 50px;
+  aspect-ratio: 1;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: #25063f;
+}
